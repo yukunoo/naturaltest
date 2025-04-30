@@ -1,0 +1,57 @@
+{
+	"ingredients": [
+		{
+			"category": "高刺激性起泡劑",
+			"names": [
+				"Sodium Lauryl Sulfate",
+				"Sodium Laureth Sulfate",
+				"Ammonium Lauryl Sulfate",
+				"Ammonium Laureth Sulfate",
+				"Sodium Coco-Sulfate",
+				"Sodium Decyl Sulfate",
+				"TEA-Lauryl Sulfate"
+			],
+			"risk": "高刺激的界面活性劑可能刺激口腔粘膜，引發口腔潰瘍，破壞口腔菌群平衡，削弱口腔防護力。"
+		},
+		{
+			"category": "人工甜味劑",
+			"names": ["Sodium Saccharin", "Sucralose"],
+			"risk": "為增加刷牙口感而添加人工甜味劑，如合成糖精，可能造成健康風險"
+		},
+		{
+			"category": "人工香料",
+			"names": ["Flavor", "Aroma", "Fragrance"],
+			"risk": "部分香精成分被認為具有內分泌干擾作用，可能影響荷爾蒙平衡，進而影響生殖健康"
+		},
+		{
+			"category": "人工色素",
+			"names": ["CI "],
+			"risk": "合成食用色素可能造成兒童的神經行為問題（如過動、注意力不集中、易怒等）"
+		},
+		{
+			"category": "高硬度研磨劑",
+			"names": ["Hydrated Silica", "SILICA"],
+			"risk": "可能損傷牙齒，導致牙齒更敏感，易受刺激，甚至在牙齒表面留下細紋，讓色素與細菌更易附著，可能增加蛀牙與牙齦退縮風險。"
+		},
+		{
+			"category": "無PEG增潤劑",
+			"names": ["PEG-", "Steareth-", "Polysorbate-", "Poloxamer 407"],
+			"risk": "部分石化潤滑劑在製造過程中可能含有1,4二氧六環等高風險成分，敏感族群長期使用可能造成口腔潰瘍，具有在健康風險"
+		},
+		{
+			"category": "三氯沙抗菌劑",
+			"names": ["Triclosan", "Triclocarban"],
+			"risk": "一種環境賀爾蒙，可能干擾人體內分泌、免疫系統，影響甲狀腺功能、導致藥性產生抗藥性，甚至影響生殖系統，亦對環境生態造成危害"
+		},
+		{
+			"category": "氟化物",
+			"names": ["Monofluorophosphate", "fluoride", "fluorosilicate"],
+			"risk": "長期攝取過量，可能導致骨密度降低，增加骨折機率，並可能引發氟斑牙、氟毒症，對大腦與甲狀腺功能也存在健康風險。"
+		},
+		{
+			"category": "二氧化鈦增白劑",
+			"names": ["Titanium Dioxide"],
+			"risk": "法國早於2020年即禁止將二氧化鈦作為食品添加劑使用，因其可能具有毒性風險"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+:root {
+  --ui-primary: #125a62;
+  --ui-secondary: #cfd8d0;
+}
+
+body {
+  font-family: 'Noto Sans TC', sans-serif;
+}

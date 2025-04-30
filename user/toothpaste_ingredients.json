@@ -1,0 +1,59 @@
+{
+	"ingredients": [
+		{
+			"id": 2,
+			"chinese_name": "人工甜味劑",
+			"ingredients": [
+				{
+					"name": "Sodium Saccharin",
+					"description": "為增加刷牙口感而添加人工甜味劑，如含成糖精，可能造成健康風險"
+				},
+				{
+					"name": "Sucralose",
+					"description": "為增加刷牙口感而添加人工甜味劑，如含成糖精，可能造成健康風險"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"chinese_name": "人工香料/香精",
+			"ingredients": [
+				{
+					"name": "Flavor",
+					"description": "部分香精成分被認為具有內分泌干擾作用，可能影響荷爾蒙平衡，進而影響生殖健康"
+				},
+				{
+					"name": "Aroma",
+					"description": "部分香精成分被認為具有內分泌干擾作用，可能影響荷爾蒙平衡，進而影響生殖健康"
+				},
+				{
+					"name": "Fragrance",
+					"description": "部分香精成分被認為具有內分泌干擾作用，可能影響荷爾蒙平衡，進而影響生殖健康"
+				}
+			]
+		},
+		{
+			"id": 4,
+			"chinese_name": "高硬度研磨劑",
+			"ingredients": [
+				{
+					"name": "Hydrated Silica",
+					"description": "可能損傷牙齒、導致牙齒更敏感、易受刺激，甚至在牙齒表面留下細紋，讓色素與細菌更易附著，可能增加蛀牙與牙齦退縮風險。"
+				},
+				{
+					"name": "SILICA",
+					"description": "可能損傷牙齒、導致牙齒更敏感、易受刺激，甚至在牙齒表面留下細紋，讓色素與細菌更易附著，可能增加蛀牙與牙齦退縮風險。"
+				}
+			]
+		},
+		{
+			"chinese_name": "人工色素",
+			"ingredients": [
+				{
+					"name": "CI *****",
+					"description": "合成食用色素可能造成兒童的神經行為問題（如過動、注意力不集中、易怒等）"
+				}
+			]
+		}
+	]
+}
